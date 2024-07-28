@@ -20,7 +20,7 @@ And other related analyses
 
 
 ### The questions I wanted to answer through my SQL queries were:
- Likelihood of dying if you contract COVID-19 in your country.
+-  Likelihood of dying if you contract COVID-19 in your country.
 - Percentage of the population infected with COVID-19.
 - Countries with the highest infection rate compared to the population.
 - Countries with the highest death count per population.
